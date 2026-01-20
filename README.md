@@ -54,7 +54,7 @@ This dashboard can be used by business users to:
 ---
 
 ## 📷 Dashboard Preview
-![Sales & Profit Dashboard](Sales&Profit)
+![Sales & Profit Dashboard](Sales&Profit.png)
 
 ---
 
